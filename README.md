@@ -1,6 +1,6 @@
 # bank-dataset-crm
 
-# Financial Transaction Clustering Dataset
+# Bank Customer Persona Analysis
 
 ## Deskripsi Dataset
 Dataset ini menyajikan gambaran mendalam mengenai perilaku transaksi dan pola aktivitas keuangan, sehingga sangat ideal untuk eksplorasi **Fraud Detection**, **Anomaly Detection**, dan **Customer Segmentation** menggunakan teknik Machine Learning.
