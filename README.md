@@ -1,4 +1,3 @@
-# bank-dataset-crm
 
 # Bank Customer Persona Analysis
 
